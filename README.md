@@ -1,5 +1,5 @@
 The Appgate FP Github space is an enterprise contribution to the developer's community concerning Appgate FP products. You will find different topics information such as: 
-* Implementation examples of DetecID SDK wrappers on some hybrid mobile app platforms.
+* Implementation examples of DetecID SDK and Detect Safe Browsing SDK wrappers on some hybrid mobile app platforms.
 
 Appgate FP is a product from [Appgate Cybersecurity, Inc.](https://www.appgate.com/).
 
@@ -9,3 +9,5 @@ Appgate Cybersecurity, Inc. employees are the current contributors. The reposito
 * Examples of DetectID SDK hybrid wrapper:
     * [Phonegap](https://github.com/appgate/fp-rba-didsdk-example-phonegap-wrapper)
     * [React Native](https://github.com/appgate/fp-rba-didsdk-example-react-native-wrapper)
+* Examples of Detect Safe Browsing SDK hybrid wrapper:
+    * [Flutter](https://github.com/appgate/fp-rba-dsbsdk-example-flutter-wrapper)
