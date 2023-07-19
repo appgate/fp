@@ -9,5 +9,6 @@ Appgate Cybersecurity, Inc. employees are the current contributors. The reposito
 * Examples of DetectID SDK hybrid wrapper:
     * [Cordova](https://github.com/appgate/fp-rba-didsdk-example-cordova-wrapper)
     * [React Native](https://github.com/appgate/fp-rba-didsdk-example-react-native-wrapper)
+    * [Flutter](https://github.com/appgate/fp-rba-didsdk-example-flutter-native-wrapper)
 * Examples of Detect Safe Browsing SDK hybrid wrapper:
     * [Flutter](https://github.com/appgate/fp-rba-dsbsdk-example-flutter-wrapper)
